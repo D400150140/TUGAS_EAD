@@ -1,0 +1,26 @@
+ket : p = rho
+
+1) uang lrb , R = 10 Ohm , L = 2 mm, A = 19.6 cm^2
+jawab :
+R  = p x (L : A )
+10 = p x (0.002 : 0.00196)
+10 = p 1.02
+p  = 10 : 1.02
+   = 9.8
+
+2) uang 100 kuningan ,R = 25 0hm, L = 1mm, A = 3.8 cm^2
+jawab :
+R  = p x (L : A)
+25 = p x (0.002 : 0.00038)
+25 = p x 5.27
+p  = 25 : 5.27
+   = 4.74
+
+3) paku , R = 5 Ohm, L = 5 cm, A = 1 cm^2
+jawab :
+R = p x (L : A )
+5 = p x (0.05 : 0.0001)
+5 = p 500
+p = 5 : 500
+  = 0.01
+
